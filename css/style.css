@@ -1,15 +1,21 @@
-
+/*body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkPrE8MxokF_XVvJ5csW4sE5pAq6S55TiFrPmzVuuYQFaq178x");
+	background-repeat: no-repeat;
+}
+*/
 
 #red{
    	width: 100px;
    	height: 100px;
     background-color:red;
+    position:absolute;
 }
 
 #blue{
    	width: 100px;
    	height: 100px;
     background-color:blue;
+    position:absolute;
 }
 
 div{
@@ -18,5 +24,4 @@ div{
 	border-radius: 50px;
 	text-align: center;
 	font-size: 25px;
-	position:absolute;
 }

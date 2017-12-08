@@ -1,9 +1,10 @@
 console.log("WTF IS GOING ON!!!???")
 
 $("button").click(function(){
-    $("#red").animate({left: '1000px'});
+    $("#red").animate({left: '250px'});
 }); 
 
 $("button").click(function(){
-    $("#blue").animate({left: '250px'});
+    $("#blue").animate({left: '1000px'});
 }); 
+
