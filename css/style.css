@@ -1,0 +1,21 @@
+
+
+#red{
+   	width: 100px;
+   	height: 100px;
+    background-color:red;
+}
+
+#blue{
+   	width: 100px;
+   	height: 100px;
+    background-color:blue;
+}
+
+div{
+	margin-top: 50px;
+	color: white;
+	border-radius: 50px;
+	text-align: center;
+	font-size: 25px;
+}
