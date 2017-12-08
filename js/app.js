@@ -17,14 +17,18 @@ $(window).keypress(function(){
     }
 });*/
 
+
+
+
+/*
 $(window).keypress(function(q) {
     if(q.which == 49)
     console.log("player1");
  $("#red").animate({width: "+=100px"});
 });
 
-$(window).keypress(function(q) {
-    if(q.which == 50)
+$(window).keypress(function(p) {
+    if(p.which == 50)
     console.log("player2");
  $("#blue").animate({width: "+=100px"});
-});
+});*/
