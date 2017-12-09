@@ -7,21 +7,21 @@
 #red{
    	width: 100px;
    	height: 100px;
-    background-color:red;
+    background-color:red;   /*colors the red racer*/
    
 }
 
 #blue{
    	width: 100px;
    	height: 100px;
-    background-color:blue;
+    background-color:blue;  /*colors the blue racer*/
   
 }
 
 div{
 	margin-top: 50px;
 	color: white;
-	border-radius: 50px;
+	border-radius: 50px;     /*Gives both racers the same styling*/
 	text-align: center;
 	font-size: 25px;
 }
