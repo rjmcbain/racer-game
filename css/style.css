@@ -25,3 +25,11 @@ div{
 	text-align: center;
 	font-size: 25px;
 }
+
+.instructions1 {
+  color: red;
+}
+
+.instructions2 {
+  color: blue;
+}

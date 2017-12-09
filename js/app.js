@@ -15,8 +15,7 @@ $(document).keypress(function(e) {
     }
 });
 
-*/
-
+*/								
 
 
 $(window).keypress(function(q) {
@@ -28,3 +27,8 @@ $(window).keypress(function(p) {
     if(p.which == 50)								//keypress 50 is key 2
  $("#blue").animate({width: "+=100px"});
 });
+
+
+
+
+					// Working on declaring a winner
